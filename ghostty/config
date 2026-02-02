@@ -1,0 +1,25 @@
+# 字体配置
+font-family = ""
+font-family = "Courier"
+font-family = "LXGW WenKai Mono TC"
+font-size = 14
+font-thicken = true
+
+# 窗口配置
+window-padding-x = 10
+window-padding-y = 10
+window-decoration = true
+
+# 光标
+cursor-style = block
+cursor-style-blink = true
+
+# 主题
+theme = "GitHub Dark Default"
+
+# macOS 特定
+macos-option-as-alt = true
+macos-titlebar-style = hidden
+
+# Shell 集成
+shell-integration = zsh
