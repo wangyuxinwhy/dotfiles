@@ -1,6 +1,5 @@
 # 字体配置
-font-family = ""
-font-family = "Courier"
+font-family = "Courier Prime Code"
 font-family = "LXGW WenKai Mono"
 font-size = 14
 font-thicken = true
@@ -19,7 +18,7 @@ theme = "GitHub Dark Default"
 
 # macOS 特定
 macos-option-as-alt = true
-macos-titlebar-style = hidden
+macos-titlebar-style = tabs
 
 # Shell 集成
 shell-integration = zsh
