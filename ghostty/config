@@ -1,7 +1,7 @@
 # 字体配置
 font-family = ""
 font-family = "Courier"
-font-family = "LXGW WenKai Mono TC"
+font-family = "LXGW WenKai Mono"
 font-size = 14
 font-thicken = true
 
