@@ -14,7 +14,7 @@ cursor-style = block
 cursor-style-blink = true
 
 # 主题
-theme = "GitHub Dark Default"
+theme = "Night Owl"
 
 # macOS 特定
 macos-option-as-alt = true
