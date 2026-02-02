@@ -1,0 +1,10 @@
+# Shell enhancements
+brew "starship"
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
+brew "zoxide"
+brew "fzf"
+
+# CLI tools
+brew "bat"
+brew "gh"
